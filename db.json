@@ -3,17 +3,17 @@
 	{
 		"nome": "prodotto1",
 		"descrizione": "Descrizione del prodotto 1",
-		"email": "gianamria.magnani@studenti.ittsrimini.edu.it",
+		"email": "gianamria.magnani@studenti.ittsrimini.edu.it"
 	},
 	{
 		"nome": "prodotto2",
 		"descrizione": "Descrizione del prodotto 2",
-		"email": "magnani@gmail.com",
+		"email": "magnani@gmail.com"
 	},
 	{
 		"nome": "prodotto3",
 		"descrizione": "Descrizione del prodotto 3",
-		"email": "gianmaria@gmail.com",	
+		"email": "gianmaria@gmail.com"
 	}
        ]
 }
