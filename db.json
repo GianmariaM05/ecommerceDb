@@ -2,18 +2,18 @@
 	"prodotti": [
 	{
 		"nome": "prodotto1",
-		"email": "gianamria.magnani@studenti.ittsrimini.edu.it",
 		"descrizione": "Descrizione del prodotto 1",
+		"email": "gianamria.magnani@studenti.ittsrimini.edu.it",
 	},
 	{
 		"nome": "prodotto2",
-		"email": "magnani@gmail.com",
 		"descrizione": "Descrizione del prodotto 2",
+		"email": "magnani@gmail.com",
 	},
 	{
 		"nome": "prodotto3",
-		"email": "gianmaria@gmail.com",
 		"descrizione": "Descrizione del prodotto 3",
+		"email": "gianmaria@gmail.com",	
 	}
        ]
 }
