@@ -3,17 +3,17 @@
 	{
 		"nome": "prodotto1",
 		"descrizione": "Descrizione del prodotto 1",
-		"email": "gianamria.magnani@studenti.ittsrimini.edu.it"
+		"price": "10"
 	},
 	{
 		"nome": "prodotto2",
 		"descrizione": "Descrizione del prodotto 2",
-		"email": "magnani@gmail.com"
+		"price": "25"
 	},
 	{
 		"nome": "prodotto3",
 		"descrizione": "Descrizione del prodotto 3",
-		"email": "gianmaria@gmail.com"
+		"price": "48"
 	}
        ]
 }
